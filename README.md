@@ -1,28 +1,79 @@
-<h1 align="center">Hi 👋, This is Al Shahariar Arafat Shawon</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-- 🔭 I’m currently working on [DailyDrafts](https://blog-site-c0adb.web.app/)
-
-- 🌱 I’m currently learning **TypeScript,PostgreSQl,MySQL,React Native**
-
-- 👨‍💻 All of my projects are available at [https://shahariar-arafat-portfolio.netlify.app/](https://shahariar-arafat-portfolio.netlify.app/)
-
-- 💬 Ask me about **ReactJS,JavaScript**
-
-- 📫 How to reach me **shahariarshawon.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahariarshaw11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahariarshaw11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/al-shahariar-arafat-shawon-a02396259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/al-shahariar-arafat-shawon-a02396259/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31131673/al-shahariar-arafat-shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31131673/al-shahariar-arafat-shawon" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shahariar.arafat.497656/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahariar.arafat.497656/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shahariar_shawon_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahariar_shawon_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@shafascreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shafascreations" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/noobman15025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/noobman15025" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shahariarshawon2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shahariarshawon2" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/noobman15025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/noobman15025" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Shahariar 👋 I'm a 🚀 Full Stack Web developer 🚀 ">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!--
+How to make this gif ?
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
+
+## :memo: Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [🔥 Les news tech PHP & IA de la semaine](https://blog.darkwood.com/article/les-news-tech-php-ia-de-la-semaine)
+- [🐘 Why Symfony AI will replace your intern developer](https://blog.darkwood.com/article/why-symfony-ai-will-replace-your-intern-developer)
+- [🔥 Le dancefloor en feu au Tennessee Club de Paris](https://blog.darkwood.com/article/le-dancefloor-en-feu-au-tennessee-club-de-paris)
+- [Je mixe sur Paris au Tennessee Mercredi  30 juillet](https://blog.darkwood.com/article/je-mixe-sur-paris-au-tennessee-mercredi-30-juillet-1-1)
+- [How I generate €10,000/month thanks to Symfony AI](https://blog.darkwood.com/article/how-i-generate-eur10-000-month-thanks-to-symfony-ai)
+<!-- BLOG-POST-LIST:END -->
+
+## :link: Links
+
+<p align="center">
+  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.snapchat.com/add/matyo91"><img src="https://img.icons8.com/color/96/000000/snapchat.png" alt="snapchat"/></a>
+  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
+  <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
+  <a href="https://soundcloud.com/djmatyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
+  <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://www.mixcloud.com/matyo91"><img src="https://img.icons8.com/windows/96/000000/mixcloud.png" alt="mixcloud"/></a>
+  <a href="https://keybase.io/matyo91"><img src="https://img.icons8.com/windows/96/000000/keybase2.png" alt="keybase"/></a>
+  <a href="https://steamcommunity.com/id/matyo91"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+  <a href="https://vk.com/matyo91"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
+  <a href="https://open.spotify.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+  <a href="https://tripadvisor.com/members/matyo91"><img src="https://img.icons8.com/color/96/000000/tripadvisor.png" alt="tripadvisor"/></a>
+  <a href="https://www.bandcamp.com/matyo91"><img src="https://img.icons8.com/nolan/96/bandcamp-button.png" alt="bandcamp"/></a>
+  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://connect.symfony.com/profile/matyo91"><img src="https://img.icons8.com/color/96/000000/symfony.png" alt="symfony"/></a>
+  <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
+  <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
+  <a href="https://git-stars.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/star.png" alt="gitstars"/></a>
+  <a href="https://mastodon.social/@matyo91"><img src="https://img.icons8.com/windows/96/mastodon.png" alt="mastodon"/></a>
+  <a href="https://bsky.app/profile/matyo91.bsky.social"><img src="https://img.icons8.com/emoji/96/blue-square-emoji.png" alt="bluesky"/></a>
+  <a href="https://www.tiktok.com/@matyo91_"><img src="https://img.icons8.com/color/96/tiktok.png" alt="tiktok"/></a>
+  <a href="https://www.producthunt.com/@matyo91"><img src="https://img.icons8.com/ios-glyphs/96/product-hunt.png" alt="producthunt"/></a>
+  <a href="https://calendly.com/matyo91"><img src="https://img.icons8.com/ios-glyphs/96/calendar.png" alt="calendly"/></a>
+  <a href="https://www.indiehackers.com/matyo91"><img src="https://img.icons8.com/sf-regular-filled/96/bookmark.png" alt="indiehackers"/></a>
+  <a href="https://dev.to/matyo91"><img src="https://img.icons8.com/windows/96/dev.png" alt="devto"/></a>
+  <a href="https://webflow.com/@matyo91"><img src="https://img.icons8.com/color/96/webflow.png" alt="webflow"/></a>
+  <a href="https://www.polywork.com/matyo91"><img src="https://img.icons8.com/fluency-systems-filled/96/add-bookmark.png" alt="polywork"/></a>
+  <a href="https://opensea.io/matyo91"><img src="https://img.icons8.com/color/96/opensea.png" alt="opensea"/></a>
+  <a href="https://huggingface.co/matyo91"><img src="https://img.icons8.com/emoji/96/hugging-face.png" alt="huggingface"/></a>
+  <a href="https://speakerdeck.com/matyo91"><img src="https://img.icons8.com/windows/96/speaker-deck.png" alt="huggingface"/></a>
+  <a href="https://www.chess.com/member/matyo91"><img src="https://img.icons8.com/color/96/knight.png" alt="chess"/></a>
+  <a href="mailto:@matyo91:matrix.org"><img src="https://img.icons8.com/ios/96/matrix-logo.png" alt="matrix"/></a>
+</p>
+
+Icons by [https://icons8.com](https://icons8.com)
+
+## :wave: github stats
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
+</p>
+
+<!-- MENTIONS-LIST:END -->
+</p>
+
+Don't see your link ? Then create an [issue](https://github.com/matyo91/matyo91/issues/new?assignees=matyo91&labels=documentation&template=add_mention.md&title=Add%20a%20new%20mention%20to%20README.md)
