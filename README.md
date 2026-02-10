@@ -1,4 +1,4 @@
-![Banner]([https://i.postimg.cc/yxRJ5Q0q/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png](https://i.postimg.cc/WzhvzM5n/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png))
+![Banner](https://i.postimg.cc/WzhvzM5n/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png)
 
 # 👋 Hi there, I'm **Al Shahariar Arafat Shawon**
 ### 🚀 Full Stack Developer | MERN Stack Enthusiast
