@@ -1,12 +1,79 @@
-![Banner](https://i.postimg.cc/WzhvzM5n/Grey-and-Black-Simple-Marketing-Linked-In-Banner.png)
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/55a654a5-8aad-438e-8a06-382541a2eb88" />
 
-# 👋 Hi there, I'm **Al Shahariar Arafat Shawon**
-### MERN Stack Developer 
+
+# 👋 Hi, I'm Al Shahariar Arafat Shawon
+
+## Backend Developer | Full Stack Engineer | Problem Solver
+
+💫 **About Me**
+
+🔭 I’m currently working on  
+Backend development as an intern at Rise Together, building scalable APIs, database-driven applications, and production-ready backend services.
+
+💼 Current Role  
+Backend Developer Intern at Rise Together — working remotely on real-world backend systems, REST APIs, authentication, database architecture, and deployment workflows.
+
+🌱 Currently Learning  
+- Advanced backend architecture  
+- Distributed systems  
+- Redis caching  
+- Docker & containerized deployment  
+- AI/ML integrations  
+- LLM-based application development  
+- Microservices  
+- Golang for high-performance backend systems  
+
+🎯 Future Goal  
+Transition into Golang-based backend engineering and work on large-scale systems at top global tech companies.
+
+💬 Ask me about  
+- Node.js  
+- Express.js  
+- Next.js  
+- React.js  
+- TypeScript  
+- PostgreSQL  
+- Prisma  
+- MongoDB  
+- REST API design  
+- Authentication  
+- AI integration in web applications  
+
+⚡ Fun Fact  
+I love teaching complex programming topics in simple language and sharing my learning journey while building real projects.
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Building a 100-day MERN stack challenge platform using Next.js, TypeScript, Prisma, MySQL, and NextAuth — teaching as I code!<br><br>👯 I’m looking to collaborate on<br>Full-stack web apps, open-source projects, and anything that involves React, Node, or clean code architecture. Bonus points if we can integrate AI or cool automation.<br><br>🤝 I’m looking for help with<br>Golang, advanced system design, and making my backend code as scalable as Netflix (almost…).<br><br>🌱 I’m currently learning<br>Golang, AI integrations, DevOps practices, and better database design — leveling up my backend game.<br><br>💬 Ask me about<br>React, Next.js, Node.js, APIs, database design, competitive programming, or how to survive a 100-day coding challenge without losing sanity.<br><br>⚡ Fun fact<br>I turn complex university topics into easy-to-understand tutorials on my YouTube channel and Facebook page, “Learn with Shahariar.” Teaching makes me code smarter, not harder.
+# 🚀 Tech Stack
+
+### Languages
+JavaScript • TypeScript • C • C++ • SQL
+
+### Frontend
+React.js • Next.js • Tailwind CSS • Redux • React Query
+
+### Backend
+Node.js • Express.js • REST API • JWT • Authentication • Mongoose • Prisma
+
+### Database
+MongoDB • PostgreSQL • MySQL • Redis
+
+### DevOps & Tools
+Docker • Git • GitHub • Postman • Vercel • Render • Netlify
+
+### AI / Emerging Tech
+AI Integration • Machine Learning • LLM Applications • Prompt Engineering
+
+---
+
+# 📌 Current Focus
+
+- Building strong backend engineering fundamentals  
+- Mastering SQL & database optimization  
+- System design learning  
+- Writing clean scalable APIs  
+- Preparing for Golang ecosystem  
+- Open source contributions  
 
 
 ## 🌐 Socials:
@@ -32,5 +99,10 @@
 [![](https://visitcount.itsvg.in/api?id=shahariarshawon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# ✍️ Dev Philosophy
 
-Thanks for visiting my profile! 🚀
+> Build deeply. Learn publicly. Teach simply.
+
+---
+
+Thanks for visiting my profile 🚀
