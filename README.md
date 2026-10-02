@@ -1,9 +1,10 @@
-<img width="1584" height="396" alt="Al Shahariar Arafat Shawon — Backend Engineer" src="https://github.com/user-attachments/assets/55a654a5-8aad-438e-8a06-382541a2eb88" />
+<img width="3780" height="1890" alt="Al Shahariar Arafat Shawon — Backend Engineer" src="https://github.com/user-attachments/assets/84af7e35-e256-4bac-9955-fabe0f0da937" />
+
 
 <h1 align="center">Al Shahariar Arafat Shawon</h1>
 
 <p align="center">
-  <b>Backend Engineer · Multi-Tenant SaaS · AI Infrastructure</b><br/>
+  <b>Backend Engineer</b><br/>
   TypeScript · Node.js · NestJS · PostgreSQL · Redis · Kafka · Docker
 </p>
 
